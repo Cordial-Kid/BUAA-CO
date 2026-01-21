@@ -1,2 +1,2 @@
 # BUAA-CO
-this repository contains both in-class and after-class files during CO learning. 
+this repository contains after-class files during CO learning.And you can find some in-class tests at my personal blog. 
